@@ -36,7 +36,7 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
            [[InlineKeyboardButton(text="⚜ Dəstək qrupu ⚜", url="http://t.me/JasperAzerbaijan_Chat"),
              InlineKeyboardButton(
-                        text="🤗Məni qrupa əlavə et🥳", url="http://t.me/jasperazerbaijan?startgroup=true"
+                        text="🤗Məni qrupa əlavə et🥳", url="http://t.me/jaspermusic_bot?startgroup=true"
                     )
                 ]
             ]
